@@ -1,7 +1,7 @@
 # odin-recipes1
 Project: Recipes
 
-Make links to recipes
-Insert image on each page
-Make unsorted list for Ingredients
-Make sorted list for Recipe insrtuction
+<p>Make links to recipes</p>
+<p>Insert image on each page</p>
+<p>Make unsorted list for Ingredients</p>
+<p>Make sorted list for Recipe insrtuction</p>
