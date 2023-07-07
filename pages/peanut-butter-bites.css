@@ -1,0 +1,48 @@
+* {
+    background-color: #df7d2e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    border-color: black;
+    }
+
+    img {
+        width: auto;
+        height: 200px;
+        display: block;
+        margin-left: 700px;
+    }
+    
+    h1 {
+        background-color: #8a4c1a;
+        font-weight: bold;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    #description {
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+        width: 600px;
+        margin-top: -190px;
+    }
+    
+    h2 {
+        background-color: #8a4c1a;
+        text-align: center;
+        margin-top: 140px;
+    }
+    
+    #Ingredients ul {
+        text-align: left;
+    }
+
+    h3 {
+        background-color: #8a4c1a;
+        text-align: center;
+        font-size: 24px;
+    }
+
+    a {
+            color: white;
+        }
