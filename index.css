@@ -1,0 +1,64 @@
+* {
+    background-color: #ff9a00;
+}
+
+#container {
+    background-color: #ff9a00;
+}
+
+h1 {
+    background-color: #ff7400;
+    text-align: center;
+    border: solid #ff0000;
+    border-width: 5px;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+h2 {
+    background-color: #ff7400;
+    border: solid #ff0000;
+    border-width: 5px;
+    font-size: 40px;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+img {
+    width: auto;
+    height: 200px;
+    margin-left: -160px;
+}
+
+.bites {
+    margin-top: -750px;
+    margin-left: 200px;
+}
+
+.Cookies {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.Creme {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+ul {
+    line-height: 300px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border: solid #ff0000;
+    border-width: 5px;
+    font-size: 40px;
+}
