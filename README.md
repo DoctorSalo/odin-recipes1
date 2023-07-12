@@ -1,8 +1,4 @@
 # odin-recipes1
 Project: Recipes
 
-<p>Make links to recipes</p>
-<p>Insert image on each page</p>
-<p>Make unsorted list for Ingredients</p>
-<p>Make sorted list for Recipe insrtuction</p>
-<p>Make new design</p>
+It's my first experience of making site. Have a lot of mistakes and a lot of different versions. My path in web-dev starts here.
